@@ -1,2 +1,2 @@
 # cloud-JavaScript
-AutoJavaScript
+没修好，别乱搬
